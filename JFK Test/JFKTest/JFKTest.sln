@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFKTest", "JFKTest\JFKTest.csproj", "{C04ECC0A-442B-42B3-9C80-AC1B8F57D525}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B44B293-C161-4535-8F31-351C60486D61}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Jfk.Prism\Jfk.Prism.csproj = ..\..\Jfk.Prism\Jfk.Prism.csproj
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04ECC0A-442B-42B3-9C80-AC1B8F57D525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04ECC0A-442B-42B3-9C80-AC1B8F57D525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04ECC0A-442B-42B3-9C80-AC1B8F57D525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04ECC0A-442B-42B3-9C80-AC1B8F57D525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {221958D6-2223-43BE-8514-ED268179ACCC}
+	EndGlobalSection
+EndGlobal

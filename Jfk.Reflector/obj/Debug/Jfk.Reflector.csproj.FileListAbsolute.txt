@@ -1,0 +1,14 @@
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\bin\Debug\Jfk.Reflector.exe.config
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\bin\Debug\Jfk.Reflector.exe
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\bin\Debug\Jfk.Reflector.pdb
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.csprojAssemblyReference.cache
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.MainForm.resources
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.Properties.Resources.resources
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.csproj.GenerateResource.cache
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.csproj.CoreCompileInputs.cache
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.exe
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.pdb
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\bin\Debug\Jfk.Prism.exe
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\bin\Debug\Jfk.Prism.pdb
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\bin\Debug\Jfk.Prism.exe.config
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Reflector\obj\Debug\Jfk.Reflector.csproj.CopyComplete

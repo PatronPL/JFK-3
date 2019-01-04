@@ -1,0 +1,11 @@
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\obj\Debug\JFKTest.csprojAssemblyReference.cache
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\obj\Debug\JFKTest.csproj.CoreCompileInputs.cache
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\bin\Debug\JFKTest.exe.config
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\bin\Debug\JFKTest.exe
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\bin\Debug\JFKTest.pdb
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\obj\Debug\JFKTest.exe
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\obj\Debug\JFKTest.pdb
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\bin\Debug\Jfk.Prism.exe
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\bin\Debug\Jfk.Prism.pdb
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\bin\Debug\Jfk.Prism.exe.config
+C:\Users\Patron\Desktop\Reflection.VS\JFK Test\JFKTest\JFKTest\obj\Debug\JFKTest.csproj.CopyComplete

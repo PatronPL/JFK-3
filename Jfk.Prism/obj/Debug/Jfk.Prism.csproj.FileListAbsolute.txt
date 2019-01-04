@@ -1,0 +1,6 @@
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Prism\bin\Debug\Jfk.Prism.exe.config
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Prism\bin\Debug\Jfk.Prism.exe
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Prism\bin\Debug\Jfk.Prism.pdb
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Prism\obj\Debug\Jfk.Prism.csproj.CoreCompileInputs.cache
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Prism\obj\Debug\Jfk.Prism.exe
+C:\Users\Patron\Desktop\Reflection.VS\Jfk.Prism\obj\Debug\Jfk.Prism.pdb
